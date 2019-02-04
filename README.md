@@ -1,7 +1,7 @@
 # Comparison-of-forecasting-models-for-Smart-Grid
 Compared various regression models for time series data - Coded in Python
 
-# Publication
+# Publication from this project
 https://ieeexplore.ieee.org/document/8423021/
 
 # Abstract:
