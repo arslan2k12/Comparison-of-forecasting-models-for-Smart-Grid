@@ -1,0 +1,19 @@
+linear vs poly
+degrees:
+
+7030 - 7
+large - 3
+medium - 2
+small -  2
+
+
+
+SVR
+
+C=10 (linear), C=1000 (rbf), no C for poly
+
+degrees and rbf gamma values:
+large - 2 and 0.001
+medium - 3 and 0.01
+small - 3 and 0.1
+
